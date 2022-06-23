@@ -14,16 +14,17 @@ The functionalities are:
 
 4)Deleting of goods record:deletes a given record.
 
-	How to Run:
-	1)Open command prompt
+How to Run:
+1)Open command prompt
 
-	2)Go to the directory of project file.(cd  _filepath_)
+2)Go to the directory of project file.
+	(cd  _filepath_)
 
-	3)compile the source code using command
+3)compile the source code using command
 
 	gcc  main.c
 
-	4)run the program using command  
+4)run the program using command  
   	
 	main.exe
 
