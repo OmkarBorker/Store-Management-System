@@ -3,7 +3,7 @@
 <p>This project is made using simple terminal GUI using library windows.h and with the knowledge of Unicode characters. 
 The project offers the basic functions provided by a basic management system.
 
-	The functionalities are:
+	<t>The functionalities are:
 
 	1)Bill calculation:system calculates the total amount. 
 
@@ -21,10 +21,10 @@ The project offers the basic functions provided by a basic management system.
 
 	3)compile the source code using command
 
-	gcc  20CSE1021_department_store_management_System.exe
+	gcc  main.c
 
 	4)run the program using command  
   	
-	20CSE1021_department_store_management_System.exe
+	main.exe
 
 credits:Omkar Borker
