@@ -1,4 +1,4 @@
-<t>Store Management System
+# Store Management System
 
 <p>This project is made using simple terminal GUI using library windows.h and with the knowledge of Unicode characters. 
 The project offers the basic functions provided by a basic management system.
