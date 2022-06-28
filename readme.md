@@ -15,6 +15,7 @@ The functionalities are:
 4)Deleting of goods record:deletes a given record.
 
 How to Run:
+
 1)Open command prompt
 
 2)Go to the directory of project file.
